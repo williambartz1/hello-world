@@ -1,3 +1,4 @@
 # hello-world
 Just going through the tutorial
- j
+
+Going to do the proper commit I was supposed to do
